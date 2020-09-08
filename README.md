@@ -1,3 +1,3 @@
 # Hiker-s-Watch
 
-An Android App which fetchs the live location.
+An Android App which fetches the live location.
